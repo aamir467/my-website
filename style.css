@@ -1,0 +1,21 @@
+h1{
+    color:darksalmon;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h2{
+    color:darkorange;
+    text-decoration: underline;
+}
+body{
+    background-color: blueviolet;
+    text-align: center;
+    color: beige;
+    text-decoration: wavy;
+    text-decoration-color: cadetblue;
+    border: 2px solid black;
+    padding: 1px;
+    border-radius: 10px; 
+}
+
